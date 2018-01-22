@@ -1,0 +1,1 @@
+Test for using git cmd-line interface.
